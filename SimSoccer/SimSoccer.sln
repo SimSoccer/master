@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateUserAccount", "Create
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormWinForm", "FormWinForm\FormWinForm.csproj", "{76530549-747E-4A33-93C6-CCA67F84A38E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawGame", "DrawGame\DrawGame.csproj", "{A85ACC85-C2A4-4F77-A233-E39F25C8B74F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{BC841E7C-2832-4235-8C45-D05238A589D1}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +28,10 @@ Global
 		{76530549-747E-4A33-93C6-CCA67F84A38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76530549-747E-4A33-93C6-CCA67F84A38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76530549-747E-4A33-93C6-CCA67F84A38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A85ACC85-C2A4-4F77-A233-E39F25C8B74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85ACC85-C2A4-4F77-A233-E39F25C8B74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A85ACC85-C2A4-4F77-A233-E39F25C8B74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A85ACC85-C2A4-4F77-A233-E39F25C8B74F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
