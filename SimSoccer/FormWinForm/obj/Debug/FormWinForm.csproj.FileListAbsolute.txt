@@ -7,3 +7,12 @@ C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\FormWinForm\obj\Debug\FormWinForm.Prop
 C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\FormWinForm\obj\Debug\FormWinForm.csproj.GenerateResource.Cache
 C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\FormWinForm\obj\Debug\FormWinForm.exe
 C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\FormWinForm\obj\Debug\FormWinForm.pdb
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\FormWinForm\bin\Debug\FormWinForm.exe.config
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\FormWinForm\obj\Debug\FormWinForm.exe
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\FormWinForm\obj\Debug\FormWinForm.pdb
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\FormWinForm\bin\Debug\FormWinForm.exe
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\FormWinForm\bin\Debug\FormWinForm.pdb
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\FormWinForm\obj\Debug\FormWinForm.csprojResolveAssemblyReference.cache
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\FormWinForm\obj\Debug\FormWinForm.Form1.resources
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\FormWinForm\obj\Debug\FormWinForm.Properties.Resources.resources
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\FormWinForm\obj\Debug\FormWinForm.csproj.GenerateResource.Cache
