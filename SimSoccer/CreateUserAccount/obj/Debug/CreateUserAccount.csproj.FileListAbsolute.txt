@@ -4,3 +4,6 @@ C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\CreateUserAccount\bin\Debug\CreateUser
 C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\CreateUserAccount\bin\Debug\CreateUserAccount.pdb
 C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\CreateUserAccount\obj\Debug\CreateUserAccount.exe
 C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\CreateUserAccount\obj\Debug\CreateUserAccount.pdb
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\CreateUserAccount\bin\Debug\CreateUserAccount.exe.config
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\CreateUserAccount\obj\Debug\CreateUserAccount.exe
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\CreateUserAccount\obj\Debug\CreateUserAccount.pdb
