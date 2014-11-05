@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateUserAccount", "CreateUserAccount\CreateUserAccount.csproj", "{A926D9AB-4857-44C3-95BC-2FBF5504D9F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormWinForm", "FormWinForm\FormWinForm.csproj", "{76530549-747E-4A33-93C6-CCA67F84A38E}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A926D9AB-4857-44C3-95BC-2FBF5504D9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A926D9AB-4857-44C3-95BC-2FBF5504D9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A926D9AB-4857-44C3-95BC-2FBF5504D9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A926D9AB-4857-44C3-95BC-2FBF5504D9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76530549-747E-4A33-93C6-CCA67F84A38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76530549-747E-4A33-93C6-CCA67F84A38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76530549-747E-4A33-93C6-CCA67F84A38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76530549-747E-4A33-93C6-CCA67F84A38E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

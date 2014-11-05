@@ -1,0 +1,9 @@
+C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\FormWinForm\bin\Debug\FormWinForm.exe.config
+C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\FormWinForm\bin\Debug\FormWinForm.exe
+C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\FormWinForm\bin\Debug\FormWinForm.pdb
+C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\FormWinForm\obj\Debug\FormWinForm.csprojResolveAssemblyReference.cache
+C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\FormWinForm\obj\Debug\FormWinForm.Form1.resources
+C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\FormWinForm\obj\Debug\FormWinForm.Properties.Resources.resources
+C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\FormWinForm\obj\Debug\FormWinForm.csproj.GenerateResource.Cache
+C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\FormWinForm\obj\Debug\FormWinForm.exe
+C:\Users\FLORIAN\Desktop\Soccer\SimSoccer\FormWinForm\obj\Debug\FormWinForm.pdb
