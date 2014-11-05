@@ -549,12 +549,11 @@ XElement cust = new XElement( "Players",
         new XElement( "PreviousClub", fields[9] ),
         new XElement( "ActualClub", fields[10] ),
         new XElement( "Stats", fields[11] ),
-        new XElement( "Stats", fields[11] ),
-        new XElement( "Stats", fields[11] ),
-        new XElement( "Stats", fields[11] ),
-        new XElement( "Stats", fields[11] ),
-        ) );
-        cust.Save( @"Ligue1FrenchPlayers.xml" );
+        new XElement( "FormState", fields[12] ),
+        new XElement( "Injury", fields[13] ),
+        new XElement( "Mental", fields[14] ),
+        new XElement( "FinancialValue", fields[15] ) ) );
+cust.Save( @"C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\Ligue1FrenchPlayers.xml" );
         }
     }
 }

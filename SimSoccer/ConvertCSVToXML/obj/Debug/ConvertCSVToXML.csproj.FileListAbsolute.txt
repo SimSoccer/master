@@ -4,3 +4,9 @@ c:\users\guenole\documents\visual studio 2013\Projects\ConvertCSVToXML\ConvertCS
 c:\users\guenole\documents\visual studio 2013\Projects\ConvertCSVToXML\ConvertCSVToXML\obj\Debug\ConvertCSVToXML.csprojResolveAssemblyReference.cache
 c:\users\guenole\documents\visual studio 2013\Projects\ConvertCSVToXML\ConvertCSVToXML\obj\Debug\ConvertCSVToXML.exe
 c:\users\guenole\documents\visual studio 2013\Projects\ConvertCSVToXML\ConvertCSVToXML\obj\Debug\ConvertCSVToXML.pdb
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\ConvertCSVToXML\bin\Debug\ConvertCSVToXML.exe.config
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\ConvertCSVToXML\obj\Debug\ConvertCSVToXML.exe
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\ConvertCSVToXML\obj\Debug\ConvertCSVToXML.pdb
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\ConvertCSVToXML\bin\Debug\ConvertCSVToXML.exe
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\ConvertCSVToXML\bin\Debug\ConvertCSVToXML.pdb
+C:\Users\Guenole\Documents\IN'TECH INFO\S3\Projet Informatique\SimSoccerGit\SimSoccer\ConvertCSVToXML\obj\Debug\ConvertCSVToXML.csprojResolveAssemblyReference.cache
