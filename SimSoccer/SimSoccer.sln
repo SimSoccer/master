@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateUserAccount", "Create
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormWinForm", "FormWinForm\FormWinForm.csproj", "{76530549-747E-4A33-93C6-CCA67F84A38E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertCSVToXML", "ConvertCSVToXML2\ConvertCSVToXML.csproj", "{78EE69DF-780A-4035-B08F-E655EA8BBFEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{76530549-747E-4A33-93C6-CCA67F84A38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76530549-747E-4A33-93C6-CCA67F84A38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76530549-747E-4A33-93C6-CCA67F84A38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78EE69DF-780A-4035-B08F-E655EA8BBFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EE69DF-780A-4035-B08F-E655EA8BBFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EE69DF-780A-4035-B08F-E655EA8BBFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EE69DF-780A-4035-B08F-E655EA8BBFEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
