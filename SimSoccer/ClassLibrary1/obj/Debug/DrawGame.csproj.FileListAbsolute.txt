@@ -1,0 +1,10 @@
+C:\Users\user\Documents\SimSoccer\SimSoccer\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Documents\SimSoccer\SimSoccer\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Documents\SimSoccer\SimSoccer\ClassLibrary1\bin\Debug\CK.Core.dll
+C:\Users\user\Documents\SimSoccer\SimSoccer\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\user\Documents\SimSoccer\SimSoccer\ClassLibrary1\bin\Debug\CK.Core.pdb
+C:\Users\user\Documents\SimSoccer\SimSoccer\ClassLibrary1\bin\Debug\CK.Core.xml
+C:\Users\user\Documents\SimSoccer\SimSoccer\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\user\Documents\SimSoccer\SimSoccer\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\user\Documents\SimSoccer\SimSoccer\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\user\Documents\SimSoccer\SimSoccer\ClassLibrary1\obj\Debug\DrawGame.csprojResolveAssemblyReference.cache
